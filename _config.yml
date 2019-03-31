@@ -1,10 +1,2 @@
-defaults:
-  -
-    scope:
-      path: 'r'
-    values:
-      layout: 'redirect'
-      sitemap: false
-
 plugins:
   - jekyll-redirect-from
