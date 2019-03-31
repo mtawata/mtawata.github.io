@@ -1,4 +1,2 @@
-collections:
-  redirects:
-    output: true
-    permalink: /:path/
+plugins:
+  - jekyll-redirect-from
